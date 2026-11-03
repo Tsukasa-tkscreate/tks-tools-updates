@@ -17,8 +17,14 @@ TKS CREATE が販売している Premiere Pro 用 CEP プラグイン群の **�
 ```
 tks-tools-updates/
 ├── README.md
-└── muoncut/
-    └── version.json    無音カットするだけ
+├── muoncut/
+│   └── version.json    無音カットするだけ
+├── rakutelop/
+│   └── version.json    楽テロ
+├── transitionconsole/
+│   └── version.json    Transition Console（トラジコン）
+└── pitatelo/
+    └── version.json    ピタテロ
 ```
 
 将来、文字起こしするだけ等の新ツールが加わると、対応するディレクトリ + `version.json` をここに追加します。
